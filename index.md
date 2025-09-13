@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Baseball has a rich history of analytics, offering some of the most accessible and extensive data in sports. I created this blog to explore the game in depth and apply statistical methods to better understand it.
